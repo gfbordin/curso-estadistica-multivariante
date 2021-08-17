@@ -1,3 +1,6 @@
+
+
+
 # [Curso Avanzado de Estadística Multivariante con R y Python](https://www.udemy.com/course/estadistica-multivariante/?couponCode=98D12F7281186CB91904)
 ## Con [Elisa Cabana](https://www.udemy.com/user/elisa-cabana-garceran-del-vall/) y [Juan Gabriel Gomila](https://www.udemy.com/user/juangabriel2)
 
